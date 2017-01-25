@@ -1,3 +1,3 @@
-# COP2220-23863
+# COP2220
 
-Valencia College C Programming Class.
+COP2220-23863: A Valencia College C Programming Class instructed by Dennis Hunchuck.
